@@ -79,7 +79,7 @@
               "",
               "tests[\"Body matches string\"] = responseBody.has(\"string_you_want_to_search\");",
               "",
-              "tests[\"Body matches string\"] = responseBody.has(\"string_you_want_to_search\");"
+              "tests[\"Body matches string\"] = responseBody.has(\"tcp\");"
             ]
           }
         }
